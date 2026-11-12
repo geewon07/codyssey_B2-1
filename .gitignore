@@ -1,0 +1,17 @@
+# Python 임시 파일
+__pycache__/
+*.pyc
+
+# macOS 파일
+.DS_Store
+
+# 가상환경
+.venv/
+venv/
+
+# 개인 거래 데이터
+data/
+
+# 테스트 중 생성한 CSV
+exported.csv
+invalid_rows.csv
